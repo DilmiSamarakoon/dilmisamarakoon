@@ -29,7 +29,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/R%20Studio-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=1a1a2e" height="30"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Modbus-FF6B35?style=flat-square&logoColor=white&labelColor=1a1a2e" height="30"/>
 </p>
 
 ---
@@ -38,5 +37,7 @@
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
