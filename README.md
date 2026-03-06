@@ -24,9 +24,11 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,laravel&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,html,cs,cpp,java,xml&perline=6" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,androidstudio&perline=6" />
+<img src="https://skillicons.dev/icons?i=laravel,mongodb,mysql,python,css,js&perline=6" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode&perline=6" />
 
 <br/><br/>
 
@@ -44,31 +46,5 @@
 
 <div align="center">
 
-## 📂 Projects
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <h3>🍔 Food Delivery App</h3>
-      <p>Android app for managing food orders and ratings</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-    </td>
-    <td align="center" width="300">
-      <h3>🌐 Portfolio Website</h3>
-      <p>Responsive personal website to showcase projects and skills</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
