@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,arduino&perline=6" />
+<img src="https://skillicons.dev/icons?i=androidstudio,github,vscode,arduino&perline=6" />
 </p>
 
 <br/>
