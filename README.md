@@ -8,7 +8,7 @@
 
 <br/>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Web%20Development-a78bfa?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Software%20Development-7c3aed?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-5b21b6?style=for-the-badge&logoColor=white" />
@@ -24,27 +24,34 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,html,cs,cpp,java,xml&perline=6" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=laravel,mongodb,mysql,python,css,js&perline=6" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode&perline=6" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,cs,cpp,java,python&perline=6" />
+</p>
 
-<br/><br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,mongodb,mysql,css,js,xml&perline=6" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" title="Arduino"/>
-&nbsp;&nbsp;
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,arduino&perline=6" />
+</p>
+
+<br/>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/R%20Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" height="32"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Modbus-FF6B35?style=for-the-badge&logoColor=white" height="32"/>
+</p>
 
 </div>
 
 ---
 
 <div align="center">
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
