@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
-# `amashi.init()` 👾
+# Amashi Dilmika👾
 
-**CS Undergrad · Software Engineering · Associate Software Engineer**
+**CS Undergraduate · Software Engineering · Associate Software Engineer**
 
 ```
-> passionate about [ web dev · data analysis · embedded systems ]
+> passionate about [ web dev · Software Development . IOT ]
 ```
 
 <br/>
@@ -32,16 +32,7 @@
   <img src="https://img.shields.io/badge/Modbus-FF6B35?style=flat-square&logoColor=white&labelColor=1a1a2e" height="30"/>
 </p>
 
----
 
-## 📂 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🍔 **Food Delivery App** | Android app for orders & ratings | Java · Android Studio · SQLite |
-| 🌐 **Portfolio Website** | Responsive personal showcase | HTML · CSS · JS · React |
-
----
 
 ## 📊 Stats
 
@@ -50,4 +41,3 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
