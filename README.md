@@ -18,25 +18,57 @@
 
 ---
 <div align="center">
+
 ## ⚙️ Tech Stack
+
 <br/>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,cs,cpp,java,python&perline=6" />
+
+<style>
+.icon-row a img {
+  transition: transform 0.3s ease;
+}
+.icon-row a img:hover {
+  transform: scale(1.2);
+}
+</style>
+
+<p align="center" class="icon-row">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" /></a>
 </p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,mongodb,mysql,css,js,xml&perline=6" />
+
+<p align="center" class="icon-row">
+  <a href="#"><img src="https://skillicons.dev/icons?i=laravel" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=xml" width="48" /></a>
 </p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,github,vscode,arduino,firebase,raspberrypi&perline=6" />
+
+<p align="center" class="icon-row">
+  <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=arduino" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=firebase" width="48" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" /></a>
 </p>
+
 <br/>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/R%20Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" height="32"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Modbus-FF6B35?style=for-the-badge&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/R%20Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" height="32"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Modbus-FF6B35?style=for-the-badge&logoColor=white" height="32"/>
 </p>
+
 </div>
 
 ---
