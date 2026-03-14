@@ -17,27 +17,19 @@
 </div>
 
 ---
-
 <div align="center">
-
 ## ⚙️ Tech Stack
-
 <br/>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,cs,cpp,java,python&perline=6" />
 </p>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=laravel,mongodb,mysql,css,js,xml&perline=6" />
 </p>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,github,vscode,arduino&perline=6" />
+<img src="https://skillicons.dev/icons?i=androidstudio,github,vscode,arduino,firebase,raspberrypi&perline=6" />
 </p>
-
 <br/>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/>
 &nbsp;&nbsp;
@@ -45,7 +37,6 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Modbus-FF6B35?style=for-the-badge&logoColor=white" height="32"/>
 </p>
-
 </div>
 
 ---
